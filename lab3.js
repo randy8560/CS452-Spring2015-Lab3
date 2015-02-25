@@ -1,3 +1,10 @@
+/*
+Randy Parisi
+Lab3
+2/25/15
+*/
+
+
 var canvas;
 var gl;
 
