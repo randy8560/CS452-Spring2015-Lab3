@@ -1,1 +1,4 @@
-name, date, description
+Randy Parisi
+2/25/15
+Rotating Triangular Pyramid/Tetrahedron with diffuse, ambient and specular lighting. 
+And rotation is based on the arrow keys with numpad 0 halting all rotations.
